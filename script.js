@@ -34,7 +34,7 @@ const applicants = [
     name: "BAGGAY, TRISHA MAE E.",
     studentId: "25-19286",
     status: "PASSED",
-    position: "ASSISTANT SECRETARY, TREASURER, 2ND YEAR REPRESENTATIVE, LOGISTICS OFFICER, SPORTS COMMITTEE"
+    position: "ASSISTANT SECRETARY"
   },
 
   {
